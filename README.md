@@ -1,6 +1,6 @@
 # Hola, soy Kevin Uribe 👋
 
-**Desarrollador Full-Stack · Colombia 🇨🇴**
+**Software Engineer & Solutions Architect · Colombia 🇨🇴**
 
 Construyo plataformas SaaS de extremo a extremo: arquitectura, backend, frontend, IA aplicada y operación en producción. No solo escribo features — las despliego, las mantengo y las opero con usuarios reales.
 
